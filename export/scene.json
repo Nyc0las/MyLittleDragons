@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": "Dragon's care",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Nycolas",
+    "email": ""
+  },
+  "owner": "Nycolas",
+  "scene": {
+    "parcels": [
+      "0,0",
+	  "0,1",
+	  "0,2",
+	  "1,0",
+	  "1,1",
+	  "1,2"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}

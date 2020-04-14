@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": "Dragon's caring",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Nycolas",
+    "email": ""
+  },
+  "owner": "0x7EB2D14AE4378f0e5b3e172F9f09f51cb1a39EfA",
+  "scene": {
+    "parcels": [
+      "-66,-29",
+	  "-66,-28",
+	  "-65,-29",
+	  "-65,-28",
+	  "-64,-29",
+	  "-64,-28"
+    ],
+    "base": "-66,-29"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}
